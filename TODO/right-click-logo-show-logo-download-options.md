@@ -23,7 +23,8 @@
 
 看这个来自 Chris Coyier（[@chriscoyier](http://codepen.io/chriscoyier) 的示例 [右击 Logo 以显示 Logo 选项](http://codepen.io/chriscoyier/pen/QNyeVd/)）。
 
-<iframe height="268" scrolling="no" src="//codepen.io/chriscoyier/embed/QNyeVd/?height=268&amp;theme-id=0&amp;default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true" style="width: 100%;">See the Pen &lt;a href="http://codepen.io/chriscoyier/pen/QNyeVd/"&gt;Right Click Logo to Show Logo Options&lt;/a&gt; by Chris Coyier (&lt;a href="http://codepen.io/chriscoyier"&gt;@chriscoyier&lt;/a&gt;) on &lt;a href="http://codepen.io"&gt;CodePen&lt;/a&gt;.</iframe>
+<iframe height='268' scrolling='no' src='//codepen.io/chriscoyier/embed/QNyeVd/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/chriscoyier/pen/QNyeVd/'>Right Click Logo to Show Logo Options</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
 
 你的应用可能已经有一整套精致的系统来展示对话框了。如果是这样，那就更简单了。为 logo 绑定“右击”事件（准确来说是`contextmenu`）并加入你想完成的操作。
 
